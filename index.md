@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+# Sophie Wulfing
+Master's Student
+Dr. Easton White's Something something
+
+## About me
+
+## Past Research Experience
+
+## Publications
+Head, M., Cope, J., **Wulfing, S.**. 2020. Applying a flexible spline model to estimate functional maturity 
+and spatio-temporal variability in aurora rockfish (_Sebastes aurora_). _Environmental Biology of Fishes_.
+
+Cordero Solórzano, R., **Wulfing, S.**, Hernández, G., García-Robledo, C., Molina, R. 2019. Tolerancia 
+térmica de las plantas a través de la sensibilidad de la fluorescencia de la clorofila. _Congreso 
+Internacional de Ciencias Exactas y Naturales, Universidad Nacional. Costa Rica._
+
+## Current Research
+Currently, I am pursuing a Mater's in Quantitative Marine Ecology under Dr. Easton White at UNH. My research focuses on applying modeling population dynamics and exploring Socio-Ecological systems. 
 
 Idea: about me is homepage, then links for past projects (CV esq), publications, current research.
 
