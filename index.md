@@ -1,4 +1,7 @@
-## About me
+
+---
+title: "About Me"
+---
 Write something about u
 
 
