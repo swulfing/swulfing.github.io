@@ -4,7 +4,7 @@ Dr. Easton White's Something something
 
 ## About me
 
-## Past Research Experience
+## Past Research Experience and Research Skills
 University of Nebraska-Lincoln
 
 Louisiana Universities Marine Consortium, Cocodrie, Louisiana	1/2020 – 3/2021
@@ -28,6 +28,8 @@ Research Intern
 •	Analyzed rockfish ovaries using light microscopy and modeled rockfish age distribution along the Pacific Coast using data processing systems such as Microsoft Excel and R and co-authored a paper on this project.
 •	Collected species samples for the FRAM survey for ten days on a fishing vessel to gather data for researchers and set fishing quotas for future commercial fishing seasons.
 
+Add skills
+
 ## Publications
 Head, M., Cope, J., **Wulfing, S.**. 2020. Applying a flexible spline model to estimate functional maturity 
 and spatio-temporal variability in aurora rockfish (_Sebastes aurora_). _Environmental Biology of Fishes_.
@@ -36,10 +38,12 @@ Cordero Solórzano, R., **Wulfing, S.**, Hernández, G., García-Robledo, C., Mo
 térmica de las plantas a través de la sensibilidad de la fluorescencia de la clorofila. _Congreso 
 Internacional de Ciencias Exactas y Naturales, Universidad Nacional. Costa Rica._
 
+Add links!
+
 ## Current Research
 Currently, I am pursuing a Mater's in Quantitative Marine Ecology under Dr. Easton White at UNH. My research focuses on applying modeling population dynamics and exploring Socio-Ecological systems. 
 
-
+##
 
 
 
