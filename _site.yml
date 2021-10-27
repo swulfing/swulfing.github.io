@@ -10,3 +10,6 @@ navbar:
       href: pubs.html
     - text: "Current Research"
       href: current.html
+
+output:
+  html_document:
