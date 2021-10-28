@@ -13,6 +13,6 @@ navbar:
 
 output:
   html_document:
-    theme: cosmo
+    theme: slate
     highlight: textmate
 output_dir: _site
