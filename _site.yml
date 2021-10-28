@@ -3,13 +3,13 @@ navbar:
   title: "Sophie Wulfing"
   left:
     - text: "About Me"
-      href: index.html
+      href: index.md
     - text: "Past Research Experience"
-      href: research.html
+      href: research.md
     - text: "Publications and Research Skills"
-      href: pubs.html
+      href: pubs.md
     - text: "Current Research"
-      href: current.html
+      href: current.md
 
 output:
   html_document:
