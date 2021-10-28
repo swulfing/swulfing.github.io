@@ -1,16 +1,16 @@
 name: "Sophie Wulfing"
-output_dir: "."
+
 navbar:
   title: "Sophie Wulfing"
   left:
     - text: "About Me"
-      href: index.md
+      href: index.html
     - text: "Past Research Experience"
-      href: research.md
+      href: research.html
     - text: "Publications and Research Skills"
-      href: pubs.md
+      href: pubs.html
     - text: "Current Research"
-      href: current.md
+      href: current.html
 
 output:
   html_document:
