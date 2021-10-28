@@ -1,18 +1,4 @@
-name: "Sophie Wulfing"
-navbar:
-  title: "Sophie Wulfing"
-  left:
-    - text: "About Me"
-      href: index.html
-    - text: "Past Research Experience"
-      href: research.html
-    - text: "Publications and Research Skills"
-      href: pubs.html
-    - text: "Current Research"
-      href: current.html
 
-output:
-  html_document:
 ---
 title: "About Me"
 ---
