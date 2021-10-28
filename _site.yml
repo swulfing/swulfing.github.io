@@ -12,6 +12,3 @@ navbar:
     - text: "Current Research"
       href: current.html
 
-output:
-  html_document:
-
