@@ -18,8 +18,8 @@ Add Skills!
 
 ## Past Reasearch Experiences
 
-### University of Nebraska-Lincoln
-idk what i did here
+### University of Nebraska-Lincoln, Lincoln, Nebraska 6/2021 - 8/2021
+Here, I aided in the creation of a stiochiometric database by overseeing a group of students doing the background research for the database. I also arranged speakers and programmed weekly seminars to help these undergrads and graduates with their career and scientific skills. Further, I took on an independent project gathering international data and assessing the relationship between DOC, Nitrate, and Phosphorus in aquatic ecosystems and presented an update on my findings at our All-Scientist Symposium.
 
 ### Research Assistant at Louisiana Universities Marine Consortium, Cocodrie, Louisiana	1/2020 – 3/2021
 Here, I assisted in project that conjoins three different laboratories across the Eastern United States quantifying the methane fluxes using a Los Gatos Gas Analyzer, biomass, and soil and water chemistry of coastal marshland. Further, I aided as necessary in my coworkers’ projects including fieldwork, data management in Excel and R, and running laboratory instruments such as a fluorometer, photometer, and Gas Chromatograph.
