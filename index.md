@@ -1,4 +1,4 @@
-
+![Image](IMG_0803.png)
 # About Me
 I grew up in the beautiful Pacific Northwest, which is where my love of the nature and the outdoors began. In my undergrad at Colorado College, I quickly realized my interest in the intersection of Biology and mathematics. I graduated in 2019 with a degree in Organismal Biology and Ecology and a mathematical biology minor. After working for a few years, I returned to school and am currently getting my Master's in Quantitative Marine Ecology with Dr. Easton White.
 
@@ -12,9 +12,6 @@ and spatio-temporal variability in aurora rockfish (_Sebastes aurora_). _Environ
 Cordero Solórzano, R., **Wulfing, S.**, Hernández, G., García-Robledo, C., Molina, R. 2019. Tolerancia 
 térmica de las plantas a través de la sensibilidad de la fluorescencia de la clorofila. _Congreso 
 Internacional de Ciencias Exactas y Naturales, Universidad Nacional. Costa Rica._
-
-Add links!
-Add Skills!
 
 ## Past Reasearch Experiences
 
