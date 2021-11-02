@@ -8,6 +8,7 @@ Currently, I am pursuing a Mater's in Quantitative Marine Ecology under Dr. East
 ## Publications
 Head, M., Cope, J., **Wulfing, S.**. 2020. Applying a flexible spline model to estimate functional maturity 
 and spatio-temporal variability in aurora rockfish (_Sebastes aurora_). _Environmental Biology of Fishes_.
+[Link](https://link.springer.com/article/10.1007%2Fs10641-020-01014-2)
 
 Cordero Solórzano, R., **Wulfing, S.**, Hernández, G., García-Robledo, C., Molina, R. 2019. Tolerancia 
 térmica de las plantas a través de la sensibilidad de la fluorescencia de la clorofila. _Congreso 
@@ -30,7 +31,9 @@ Assisted PhD students on a project modeling the greenhouse gas emission of Lake 
 ### Research Intern at NOAA Fisheries, Seattle WA	5/2017 – 8/2017
 My project here analyzed rockfish ovaries using light microscopy and modeled rockfish age distribution along the Pacific Coast using data processing systems such as Microsoft Excel and R and co-authored a paper on this project. I also collected species samples for the FRAM survey for ten days on a fishing vessel to gather data for researchers and set fishing quotas for future commercial fishing seasons.
 
-
+## Contact me
+Email: sophiewulfing@gmail.com
+Twitter: [Link](https://twitter.com/SophieWulfing)
 
 ### Markdown
 
