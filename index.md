@@ -33,4 +33,5 @@ My project here analyzed rockfish ovaries using light microscopy and modeled roc
 
 ## Contact me
 Email: sophiewulfing@gmail.com
-Twitter: [Link](https://twitter.com/SophieWulfing)
+
+[Twitter](https://twitter.com/SophieWulfing)
